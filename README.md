@@ -32,7 +32,7 @@
 
 # For Install:
 
- - git clone https://github.com/Oseid/FaceBoom.git
+ - git clone https://github.com/amirhamzaa/Brute-Force-Attack
  - cd FaceBoom/
  - pip install requests
  - pip install mechanize
